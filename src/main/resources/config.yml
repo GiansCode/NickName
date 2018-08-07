@@ -1,0 +1,13 @@
+messages:
+  player_only: "&cOnly players can use this command"
+  invalid_usage: "&cUsage: /nick <reset/set/nick> [player] [nick...]"
+  target_offline: "&cThat player is not online"
+  nick_reset: "&aNickname reset"
+  nick_updated: "&aUpdated nickname to %s"
+  nick_updated_othet: "&aUpdated %s's nickname to %s"
+  no_permission: "&cYou don't have permission"
+
+permissions:
+  nick_command: "nickname.command"
+  nick_command_colours: "nickname.command.colours"
+  nick_command_others: "nickname.command.others"
